@@ -1,6 +1,6 @@
 # easymusic
 这个项目是我的课程大作业，源代码分享给大家。  
-欢迎大家 Star 支持一下！  不明白的地方可以[B站](https://space.bilibili.com/240796065)私信我  
+欢迎大家 Star 支持一下！  不明白的地方可以[B站](https://www.bilibili.com/video/BV155411W7Pi)留言  
 演示视频[查看](https://www.bilibili.com/video/BV155411W7Pi)  
 apk[下载地址](https://lanzous.com/id881af) 密码:dr2k
 
