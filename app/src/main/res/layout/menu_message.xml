@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/menu_message"
+    android:background="#FFF">
+<!--    <androidx.appcompat.widget.Toolbar-->
+<!--        android:id="@+id/menu_bar3"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:background="@color/colorPrimary"-->
+<!--        app:titleTextColor="@android:color/white"-->
+<!--        >-->
+<!--        <ImageView-->
+<!--            android:id="@+id/menu_icon3"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="5dp"-->
+<!--            android:src="@mipmap/icon_menu_1_2"-->
+<!--            android:background="@color/colorPrimary"-->
+<!--            />-->
+<!--    </androidx.appcompat.widget.Toolbar>-->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/bg_null"
+        android:background="#FFF"/>
+<!--        android:layout_below="@id/menu_bar3"/>-->
+</RelativeLayout>
