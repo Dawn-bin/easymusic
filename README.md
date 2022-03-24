@@ -1,5 +1,5 @@
 # easymusic
-apk[下载地址](https://lanzous.com/id881af) 密码:dr2k
+apk[下载地址](https://wwz.lanzouf.com/id881af)
 
 ## 总体框架   
 如下图：  
